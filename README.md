@@ -4,6 +4,6 @@ This script uses folium to create a map in html. The map starts centered in the 
 
 The main objective was to practice the use of the Folium library, when creating a map, in Python. Also excercised the use of pandas dataframes when creating feature groups. 
 
-![Volcanoes](screenshot1.png)<br/>
+![Volcanoes](Screenshot1.png)<br/>
 ![Population](Screenshot2.png)<br/>
 
